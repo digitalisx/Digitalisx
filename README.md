@@ -13,4 +13,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 #### Security
-
+![Amazon AWS](https://badgen.net/badge/icon/Digital%20Forensic?icon=terminal&label)
+![Amazon AWS](https://badgen.net/badge/icon/Incident%20Response?icon=terminal&label)
+![Amazon AWS](https://badgen.net/badge/icon/IoT?icon=terminal&label)
