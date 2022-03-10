@@ -13,6 +13,9 @@
 ### Security
 #### Digital Forensics, Incident Response
 
+### Work
+- **2019 ~ 2022 ZIGBANG Co. Ltd** / CTO Department, Security Engineer
+
 ### Awards
 - **2021 KIISC DFC 2021 - Grand Prize, Director of the National Intelligence Service Award**
 - **2020 K-CSC Cyber Security Challenge - 2nd, President of Korea Internet & Security Agency Award**
