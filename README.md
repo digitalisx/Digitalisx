@@ -1,3 +1,7 @@
+### 🏛 Education
+
+- **2017 ~ Ajou University** / Department of Cyber Security
+
 ### 💼 Work
 - **2019 ~ 2022 ZIGBANG Co. Ltd** / CTO Department, Security Engineer
 
