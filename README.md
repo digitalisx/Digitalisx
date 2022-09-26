@@ -1,6 +1,6 @@
 ### 💼 Work
 - **2019 ~ 2022 / ZIGBANG Co. Ltd** - *CTO실, Security Engineer*
-- **2018 ~ 2019 / M Secure** - *Security Researcher*
+- **2019 / M Secure** - *Security Researcher*
 
 ### 🏛 Education
 - **2017 ~ Ajou University** / *Cyber Security 전공*
